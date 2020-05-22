@@ -17,7 +17,7 @@ The libaries needed to run the code, using Python version 3.* are:
 
 ## Project Motivation<a name="motivation"></a>
 
-Using Boston Airbnb Open Data from Sept 2016 to Sept 2017, the goal of this project is to answer three business 
+Using Boston Airbnb Open Data from Sept 2016 to Sept 2017, the goal of this project is to answer three business questions: 
 
 1. What is the cost variation for homestays in Boston?
 2. How neighborhood and review scores rating relate with each other?
@@ -31,17 +31,13 @@ The files related to this case, can be found in [Boston Airbnb Open Data in Kagg
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook 
-
-are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
-
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+There is one notebook that was developed to answer the three questions using basic Exploratory Data Analysis. Calendar and Listings were the csv files condidered in this case. Moreover, Markdown cells were used to explain the steps considered to each business question.
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here]().
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Stack Overflow for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/stackoverflow/so-survey-2017/data).  Otherwise, feel free to use the code here as you would like! 
+Must give credit to Boston Airbnb Open Data in Kaggle for the data.  You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/airbnb/boston).  Otherwise, feel free to use the code here as you would like! 
 
