@@ -10,10 +10,10 @@
 
 The libaries needed to run the code, using Python version 3.* are:
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
+. Pandas
+. NumPy
+. Matplotlib
+. Seaborn
 
 ## Project Motivation<a name="motivation"></a>
 
