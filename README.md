@@ -35,7 +35,7 @@ There is one notebook that was developed to answer the three questions using bas
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@klever.mera/thinking-to-travel-to-boston-after-the-lockdown-f84a99ec728e).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
