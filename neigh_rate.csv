@@ -1,0 +1,21 @@
+host_neighbourhood,mean_rate,max_rate,min_rate,frequency
+Allston-Brighton,90.7,100.0,20.0,375
+Jamaica Plain,94.7,100.0,60.0,319
+Back Bay,91.6,100.0,60.0,312
+Fenway/Kenmore,89.0,100.0,40.0,290
+South End,94.5,100.0,60.0,233
+Dorchester,89.5,100.0,20.0,218
+South Boston,94.4,100.0,70.0,198
+Beacon Hill,93.2,100.0,64.0,194
+Roxbury,90.0,100.0,60.0,143
+North End,93.6,100.0,60.0,126
+East Boston,90.4,100.0,53.0,114
+Mission Hill,87.7,100.0,48.0,96
+West End,89.4,100.0,20.0,82
+Charlestown,95.3,100.0,80.0,65
+Gay Village,91.3,100.0,73.0,58
+Roslindale,95.5,100.0,80.0,53
+Cambridge,89.7,100.0,60.0,51
+Downtown Crossing,91.9,100.0,77.0,33
+West Roxbury,96.2,100.0,91.0,32
+Hyde Park,88.7,100.0,20.0,31
